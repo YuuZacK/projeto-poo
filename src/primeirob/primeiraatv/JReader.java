@@ -1,4 +1,4 @@
-package primeirob.primeiraatv;
+package src.primeirob.primeiraatv;
 
 import java.io.FileWriter;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package primeirob;
+package src.primeirob;
 
 public class Hello {
 

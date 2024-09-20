@@ -1,4 +1,4 @@
-package primeirob.primeiraatv.primeiroprojeto;
+package src.primeirob.segundaatv.primeiroprojeto;
 
 import java.io.FileWriter;
 import java.io.IOException;
